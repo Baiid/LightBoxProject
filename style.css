@@ -1011,7 +1011,7 @@ hr:not([size]) {
 
     body,
     html {
-        height: 70vh;
+       height: 75vh;
     }
 
     /* ---Button --- */
@@ -1051,7 +1051,7 @@ hr:not([size]) {
 
     /* --Scwed--*/
     .scwed {
-        top: 33rem;
+        top: 29rem;
         height: 25vh;
     }
 
@@ -1102,9 +1102,7 @@ hr:not([size]) {
         width: 500px;
     }
 
-    .column-skewd .row {
-        --bs-gutter-x: 120px
-    }
+
 
     /* END 2 Column images skew */
 
@@ -1379,7 +1377,7 @@ hr:not([size]) {
         height: 25vh;
     }
 
-    /* END ---Scwed-- */
+ 
 
 
 
@@ -1509,6 +1507,7 @@ hr:not([size]) {
 
     .adjust {
         margin-top: 8rem;
+        padding-left: 1.5rem;
     }
 
     /* END 2 Column images skew */
